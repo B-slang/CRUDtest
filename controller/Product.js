@@ -24,6 +24,8 @@ exports.getAllProducts = async (req, res) => {
 
   let apiFeatures = new PaginationFeature(Product.find(), req.query);
 
+
+
   let products = await apiFeatures.query.populate('CategoryId');
 
   apiFeatures.pagination(resPerPage);
