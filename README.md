@@ -8,14 +8,14 @@ Nodejs Task given by NIMAP INFOTECH where I used React and Redux for the front e
 
 
 
-https://github.com/B-slang/CRUDtest/blob/master/images/all%20cat.png
+![IMAGE](https://github.com/B-slang/CRUDtest/blob/master/images/all%20cat.png)
 
 
-https://github.com/B-slang/CRUDtest/blob/master/images/creteprod.png
+![IMG](https://github.com/B-slang/CRUDtest/blob/master/images/creteprod.png)
 
 
 
-https://github.com/B-slang/CRUDtest/blob/master/images/all%20prod.png
+![IMG](https://github.com/B-slang/CRUDtest/blob/master/images/all%20prod.png)
 
 
 
